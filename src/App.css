@@ -18,6 +18,18 @@
   filter: drop-shadow(0 0 2em #61dafbaa);
 }
 
+.box-id{
+  display: flex;
+  padding: 10px 10px;
+
+}
+.id-info{
+  flex-direction: column;
+  text-align: left;
+  margin: 0 10px;
+
+}
+
 @keyframes logo-spin {
   from {
     transform: rotate(0deg);
